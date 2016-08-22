@@ -1,0 +1,94 @@
+header {
+	background-color: grey;
+	padding: 2%;
+	margin: 20px;
+	border-radius: 15px;
+	font-family: Helvetica;
+	font-style: oblique;
+	font-weight: 600;
+}
+
+h1 {
+	text-align: center;
+	font-style: bold;
+	color: white;
+}
+
+#image {
+ 	margin: 0 auto;
+ 	text-align: center;
+  	width: 900px;
+}
+
+#herc {
+ 	margin: 0 auto;
+ 	text-align: center;
+ 	width: 800px;
+ 	border-style: solid;
+ 	font-size: 100%;
+}
+
+#h2 {
+	text-align: center;
+	margin: 0 auto;
+ 	text-align: center;
+ 	width: 800px;
+ 	border-style: solid;
+ 	font-size: 120%;
+ 	background-color: grey;
+ 	float: left;
+ 	margin-top: 10px;
+
+ 	
+}
+
+#list {
+	text-align: center;
+	margin: 0 auto;
+ 	text-align: center;
+ 	width: 800px;
+ 	border-style: solid;
+ 	font-size: 120%;
+ 	background-color: black;
+ 	color: white;
+ 	float: right;
+ 	margin-bottom: 5px;
+ }
+
+ #herc:visited {
+ 	color: red;
+ }
+
+ .kendrick {
+ 	text-align: center;
+ 	font-family: Helvetica;
+ 	font-style: italic;
+ 	padding: 2%;
+ 	background-color: yellow;
+ 	border-radius: 15px;
+ }
+
+ #img {
+ 	margin: 0 auto;
+ 	text-align: center;
+  	width: 661px;
+  	border-radius: 15px;
+  	border-style: solid;
+  	background-color: black;
+
+ }
+
+ footer {
+ 	margin: 0 auto;
+ 	text-align: center;
+ }
+
+ #lamar {
+ 	background-color: teal
+ }
+
+ @media screen and (max-width: 1000px) {
+  body {
+    background-color: black;
+  }
+}
